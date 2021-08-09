@@ -1,8 +1,8 @@
-// adjust the parameters
+// adjust the parameters "between one and ???"
 var xParameter1 = 10
-var xParameter2 = 1
+const xParameter2 = 1 // must be one, change at your discretion
 var yParameter1 = 10
-var yParameter2 = 1
+const yParameter2 = 1  // must be one, change at your discretion
 
 // init "x"
 var x = Math.floor((Math.random() * xParameter1) + xParameter2);
